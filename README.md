@@ -9,7 +9,7 @@
 
 > 
 
-[📖 **Release Notes**](./CHANGELOG.md)
+[📖 **Read documentation**](https://nuxt-sanity.netlify.com/)
 
 ## Setup
 

@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Nuxt ️️❤️ Sanity',
-  description: 'Get started with Nuxt and Sanity.',
+  title: 'Nuxt ️️+ Sanity',
+  description: 'Easily integrate Sanity in your Nuxt.js project.',
   themeConfig: {
     repo: 'vicbergquist/nuxt-sanity',
     repoLabel: 'Contribute!',
@@ -9,11 +9,11 @@ module.exports = {
     editLinks: true,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide'
+        text: 'Sanity',
+        link: 'https://www.sanity.io/'
       },
       {
-        text: 'Sanity',
+        text: 'Official Docs',
         link: 'https://www.sanity.io/docs'
       }
     ],

@@ -1,3 +1,7 @@
+---
+sidebarDepth: 4
+---
+
 # Usage
 
 How to use the Sanity JavaScript client in Nuxt.js. See the [official documentation](/api) for more information. Sanity uses the GRaph Oriented Query language (GROQ). For an introduction to GROQ, please see the [how to guide](https://www.sanity.io/docs/data-store/how-queries-work). You can also read this [technical reference](https://www.sanity.io/docs/reference/groq) for even more information.
