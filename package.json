@@ -28,10 +28,10 @@
   "devDependencies": {
     "@babel/core": "latest",
     "@babel/preset-env": "latest",
-    "@commitlint/cli": "latest",
-    "@commitlint/config-conventional": "latest",
+    "@commitlint/cli": "8.0.0",
+    "@commitlint/config-conventional": "8.0.0",
     "@nuxtjs/eslint-config": "latest",
-    "@sanity/client": "^0.140.17",
+    "@sanity/client": "^0.140.32",
     "babel-eslint": "latest",
     "babel-jest": "latest",
     "codecov": "latest",
@@ -44,12 +44,12 @@
     "eslint-plugin-standard": "latest",
     "eslint-plugin-vue": "latest",
     "get-port": "latest",
-    "husky": "latest",
+    "husky": "2.4.0",
     "jest": "latest",
-    "nuxt-edge": "latest",
+    "nuxt-edge": "2.9.0-25999211.5c6c35c4",
     "request": "latest",
     "request-promise-native": "latest",
     "standard-version": "latest",
-    "vuepress": "^1.0.0-alpha.48"
+    "vuepress": "^1.0.0"
   }
 }
