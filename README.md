@@ -42,10 +42,10 @@ yarn add nuxt-sanity // or npm install nuxt-sanity
   ],
   // Or a Sanity object
   sanity: {
-    projectId: '', // required
-    dataset: '', // required
-    token: '', // optional
-    useCdn: false // optional, default is false
+    projectId: '', // string, required
+    dataset: '', // string, required
+    token: '', // string, optional
+    useCdn: false // boolean, optional, default is false
   }
 }
 ```
