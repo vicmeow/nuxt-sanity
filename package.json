@@ -50,6 +50,6 @@
     "request": "latest",
     "request-promise-native": "latest",
     "standard-version": "latest",
-    "vuepress": "^1.0.0"
+    "vuepress": "^1.0.3"
   }
 }
