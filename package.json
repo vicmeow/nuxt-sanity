@@ -24,14 +24,15 @@
   "files": [
     "lib"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "@sanity/client": "^0.142.6"
+  },
   "devDependencies": {
     "@babel/core": "latest",
     "@babel/preset-env": "latest",
     "@commitlint/cli": "8.0.0",
     "@commitlint/config-conventional": "8.0.0",
     "@nuxtjs/eslint-config": "latest",
-    "@sanity/client": "^0.140.32",
     "babel-eslint": "latest",
     "babel-jest": "latest",
     "codecov": "latest",
