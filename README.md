@@ -1,4 +1,4 @@
-# nuxt-sanity
+# [deprecated] nuxt-sanity
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -9,7 +9,9 @@
 
 > 
 
-[📖 **Read documentation**](https://nuxt-sanity.netlify.com/)
+This package is now deprecated and replaced by [@nuxtjs/sanity](https://github.com/nuxt-community/sanity-module#readme)
+
+[📖 **Read documentation**](https://nuxt-sanity.netlify.com/). 
 
 ## Setup
 
